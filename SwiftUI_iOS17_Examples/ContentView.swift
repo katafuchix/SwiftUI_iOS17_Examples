@@ -19,6 +19,8 @@ struct ContentView: View {
                     
                     NavigationLink("Animation With External Event", destination: AnimationWithExternalEventView())
                     
+                    NavigationLink("Animation With key Frame", destination: AnimationWithKeyFrameView())
+                    
                 }
             }
         }
