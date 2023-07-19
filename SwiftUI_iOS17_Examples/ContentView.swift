@@ -17,6 +17,8 @@ struct ContentView: View {
                     
                     NavigationLink("Heart Shape Animation", destination: HeartShapeAnimationView())
                     
+                    NavigationLink("Animation With External Event", destination: AnimationWithExternalEventView())
+                    
                 }
             }
         }

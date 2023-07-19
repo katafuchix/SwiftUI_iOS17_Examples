@@ -12,6 +12,7 @@
 		31FB38E32A67D1770052005E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31FB38E22A67D1770052005E /* Assets.xcassets */; };
 		31FB38E62A67D1770052005E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31FB38E52A67D1770052005E /* Preview Assets.xcassets */; };
 		31FB38EE2A67D1E20052005E /* HeartShapeAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FB38ED2A67D1E20052005E /* HeartShapeAnimationView.swift */; };
+		31FB38F02A67D39A0052005E /* AnimationWithExternalEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FB38EF2A67D39A0052005E /* AnimationWithExternalEventView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		31FB38E22A67D1770052005E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31FB38E52A67D1770052005E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		31FB38ED2A67D1E20052005E /* HeartShapeAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartShapeAnimationView.swift; sourceTree = "<group>"; };
+		31FB38EF2A67D39A0052005E /* AnimationWithExternalEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationWithExternalEventView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				31FB38ED2A67D1E20052005E /* HeartShapeAnimationView.swift */,
+				31FB38EF2A67D39A0052005E /* AnimationWithExternalEventView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				31FB38EE2A67D1E20052005E /* HeartShapeAnimationView.swift in Sources */,
 				31FB38E12A67D1770052005E /* ContentView.swift in Sources */,
 				31FB38DF2A67D1770052005E /* SwiftUI_iOS17_ExamplesApp.swift in Sources */,
+				31FB38F02A67D39A0052005E /* AnimationWithExternalEventView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
