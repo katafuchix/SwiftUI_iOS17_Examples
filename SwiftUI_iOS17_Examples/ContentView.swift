@@ -22,7 +22,18 @@ struct ContentView: View {
                     NavigationLink("Animation With key Frame", destination: AnimationWithKeyFrameView())
                     
                 }
+                
+                Section(header: Text("Views")) {
+                    
+                    NavigationLink("Scroll View Example", destination: ScrollViewExampleView())
+                    
+                    //NavigationLink("Animation With External Event", destination: AnimationWithExternalEventView())
+                    
+                    //NavigationLink("Animation With key Frame", destination: AnimationWithKeyFrameView())
+                    
+                }
             }
+            
         }
     }
 }

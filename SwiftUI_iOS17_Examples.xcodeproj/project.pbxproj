@@ -14,6 +14,7 @@
 		31FB38EE2A67D1E20052005E /* HeartShapeAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FB38ED2A67D1E20052005E /* HeartShapeAnimationView.swift */; };
 		31FB38F02A67D39A0052005E /* AnimationWithExternalEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FB38EF2A67D39A0052005E /* AnimationWithExternalEventView.swift */; };
 		31FB38F22A67D4E50052005E /* AnimationWithKeyFrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FB38F12A67D4E50052005E /* AnimationWithKeyFrameView.swift */; };
+		31FB38F42A67D7090052005E /* ScrollViewExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FB38F32A67D7090052005E /* ScrollViewExampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		31FB38ED2A67D1E20052005E /* HeartShapeAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartShapeAnimationView.swift; sourceTree = "<group>"; };
 		31FB38EF2A67D39A0052005E /* AnimationWithExternalEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationWithExternalEventView.swift; sourceTree = "<group>"; };
 		31FB38F12A67D4E50052005E /* AnimationWithKeyFrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationWithKeyFrameView.swift; sourceTree = "<group>"; };
+		31FB38F32A67D7090052005E /* ScrollViewExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewExampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				31FB38ED2A67D1E20052005E /* HeartShapeAnimationView.swift */,
 				31FB38EF2A67D39A0052005E /* AnimationWithExternalEventView.swift */,
 				31FB38F12A67D4E50052005E /* AnimationWithKeyFrameView.swift */,
+				31FB38F32A67D7090052005E /* ScrollViewExampleView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				31FB38EE2A67D1E20052005E /* HeartShapeAnimationView.swift in Sources */,
 				31FB38F22A67D4E50052005E /* AnimationWithKeyFrameView.swift in Sources */,
 				31FB38E12A67D1770052005E /* ContentView.swift in Sources */,
+				31FB38F42A67D7090052005E /* ScrollViewExampleView.swift in Sources */,
 				31FB38DF2A67D1770052005E /* SwiftUI_iOS17_ExamplesApp.swift in Sources */,
 				31FB38F02A67D39A0052005E /* AnimationWithExternalEventView.swift in Sources */,
 			);
